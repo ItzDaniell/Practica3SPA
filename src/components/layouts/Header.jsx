@@ -10,7 +10,7 @@ const Header = () => {
             </button>
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav">
-                <Link className="nav-link active" to={"/home"}>Home</Link>
+                <Link className="nav-link active" to={"/"}>Home</Link>
                 <Link className="nav-link" to={"/items"}>Peliculas</Link>
             </div>
             </div>
